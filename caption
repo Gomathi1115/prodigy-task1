@@ -1,0 +1,12 @@
+📌 Project Highlights: Visualizing Data Distribution
+🎯 Project Objective:
+To analyze and visualize the distribution of a categorical or continuous variable using a bar chart (for categorical data) or a histogram (for numerical data).
+📊 Key Components:
+Data Collection: Gather sample data (e.g., population ages, gender distribution, salaries, customer segments).
+Data Preprocessing: Clean and prepare the dataset for visualization.
+Visualization Techniques:
+Bar Chart for categorical data like gender, occupation, or region.
+Histogram for continuous data like age, income, or test scores.
+Analysis & Insights: Identify patterns, trends, or anomalies in the dataset.
+hashtag#Datascience hashtag#Prodigyinfotech
+Tools Used: Python (Matplotlib, Seaborn), Tableau, Power BI, or Excel.
